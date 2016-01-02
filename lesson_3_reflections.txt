@@ -10,3 +10,6 @@ Forks are only used on Github (and with food) so it's used when making a copy of
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It can be beneficial to have access to a copy of the remote to reference in case you are unable to access GitHub whether due to internet connectivity issues or server issues or other. Accessing this remote at all is good in case you make changes you want to undo, you will have something to revert to or just compare to when you aren't sure what you've changed since last pulling. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Assuming this question is asking what I would do without version control of any kind, I would likely resort to a shared dropbox folder. This would make having changes appear quickly easier since adding and committing would be done automatically with every file save but working on the same files at the same time would be trickier since changes would get overwritten and also no systematic code history would exist. 
+
