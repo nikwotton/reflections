@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 Keeping work in a remote repository allows for easy collaboration as well as a backup solution that is far better than just storing work in one location. 
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+If you are making changes to your local repository while on master and haven't made a branch yet, you don't want Git to automatically pull changes that may conflict with your local changes. 
+
