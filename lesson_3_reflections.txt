@@ -13,3 +13,6 @@ It can be beneficial to have access to a copy of the remote to reference in case
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Assuming this question is asking what I would do without version control of any kind, I would likely resort to a shared dropbox folder. This would make having changes appear quickly easier since adding and committing would be done automatically with every file save but working on the same files at the same time would be trickier since changes would get overwritten and also no systematic code history would exist. 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are collaborating with others through pull requests, branches become useful. Another such case, is if you have multiple versions of your code you want to keep separate. If you only want one version and are working alone then working directly in master is fine. 
+
