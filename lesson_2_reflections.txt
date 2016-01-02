@@ -13,3 +13,6 @@ Branches come in handy when you want several separate versions of a codebase bec
 How do the diagrams help you visualize the branch structure?
 A diagram is a visual object so it helps to visualize..... Not really sure how to add extra explanation to that. 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together results in one "merge commit" being added to one of the branches and all of the commits on the other branch being added to it. We represent it in the diagram as such because it makes sense that way. 
+
